@@ -1,23 +1,41 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code.jpg)
-<h1 align="center">Hi 👋, I'm KiraN Biju</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <!-- Left side (text) -->
+  <div>
+    <h1>Hi 👋, I'm KiraN Biju</h1>
+    <h3>A passionate frontend developer from India</h3>
 
-<div style="display: flex; justify-content: center;">
-  <img 
-    src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
-    alt="Description of image">
+    <p align="left"> 
+      <img src="https://komarev.com/ghpvc/?username=kx-bytes&label=Profile%20views&color=0e75b6&style=flat" alt="kx-bytes" /> 
+    </p>
+
+    <p align="left"> 
+      <a href="https://twitter.com/kiran_biju91366" target="blank">
+        <img src="https://img.shields.io/twitter/follow/kiran_biju91366?logo=twitter&style=for-the-badge" alt="kiran_biju91366" />
+      </a> 
+    </p>
+
+    <ul>
+      <li>🌱 I’m currently learning <b>Data Science, ML, Next.js</b></li>
+      <li>👨‍💻 All of my projects are available at 
+        <a href="https://portfolio-cyan-xi-69.vercel.app">portfolio-cyan-xi-69.vercel.app</a>
+      </li>
+      <li>💬 Ask me about <b>MERN, DevOps, Cyber Security</b></li>
+      <li>📫 How to reach me: <b>kiranbiju849@gmail.com</b></li>
+    </ul>
+  </div>
+
+  <!-- Right side (image) -->
+  <div>
+    <img 
+      src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
+      alt="Description of image"
+      width="300"
+    >
+  </div>
+
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kx-bytes&label=Profile%20views&color=0e75b6&style=flat" alt="kx-bytes" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kiran_biju91366" target="blank"><img src="https://img.shields.io/twitter/follow/kiran_biju91366?logo=twitter&style=for-the-badge" alt="kiran_biju91366" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science,ML,Next.js**
-
-- 👨‍💻 All of my projects are available at [portfolio-cyan-xi-69.vercel.app](portfolio-cyan-xi-69.vercel.app)
-
-- 💬 Ask me about **MERN,DevOps,Cyber Security**
-
-- 📫 How to reach me **kiranbiju849@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
