@@ -17,7 +17,7 @@ Frontend Developer • MERN Stack • DevOps • Cyber Security • Machine Lear
 - 💻 Interested in **Full Stack Development, DevOps, AI and Cyber Security**
 - 🚀 Building scalable web applications
 - 📫 Reach me at **kiranbiju849@gmail.com**
-- 🌐 Portfolio: **https://portfolio-cyan-xi-69.vercel.app**
+- 🌐 Portfolio: **https://kiran-portfolio-jade-gamma.vercel.app/**
 
 ---
 
